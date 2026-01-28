@@ -1,3 +1,8 @@
+---
+inclusion: fileMatch
+fileMatchPattern: ['**/compute/requirements.md', '**/compute/design.md', '**/compute/tasks.md']
+---
+
 je veux créer un exécutable bash qui calcule une addition et retourne une résultat
 
 Exemple de l'interface CLI voulue :
@@ -15,3 +20,4 @@ Exemple de l'interface CLI voulue :
   "result": 5
 }
 ```
+
